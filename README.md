@@ -2,10 +2,10 @@
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-075898?style=flat-squar&logo=flutter&logoColor=white"/>
 
 <p align="center">
-  <img alt="Default Progress Bar" src="https://github.com/shervin-h/progress_bar/blob/main/assets/progress_bar_default.gif?raw=true">
-  <img alt="Progress Bar Example1" src="https://github.com/shervin-h/progress_bar/blob/main/assets/progress_bar_example1.gif?raw=true">
-  <img alt="Progress Bar Example2" src="https://github.com/shervin-h/progress_bar/blob/main/assets/progress_bar_example2.gif?raw=true">
-  <img alt="Progress Bar Example3" src="https://github.com/shervin-h/progress_bar/blob/main/assets/progress_bar_example3.gif?raw=true">
+  <img alt="Default Progress Bar" src="https://github.com/shervin-h/progress_line/blob/main/assets/progress_bar_default.gif?raw=true">
+  <img alt="Progress Bar Example1" src="https://github.com/shervin-h/progress_line/blob/main/assets/progress_bar_example1.gif?raw=true">
+  <img alt="Progress Bar Example2" src="https://github.com/shervin-h/progress_line/blob/main/assets/progress_bar_example2.gif?raw=true">
+  <img alt="Progress Bar Example3" src="https://github.com/shervin-h/progress_line/blob/main/assets/progress_bar_example3.gif?raw=true">
 </p>
 
 # Progress Line
@@ -62,7 +62,7 @@ Now in your flutter code, you can use:
 - Animation is enabled by default. You can set a duration for it or disable it.
 
 <p align="center">
-    <img alt="Progress Bar Example3" src="https://github.com/shervin-h/progress_bar/blob/main/assets/progress_bar_example3.gif?raw=true">
+    <img alt="Progress Bar Example3" src="https://github.com/shervin-h/progress_line/blob/main/assets/progress_bar_example3.gif?raw=true">
 </p>
 
 ```dart
@@ -117,7 +117,7 @@ By default :
 
 
 <p align="center">
-    <img alt="Default Progress Bar" src="https://github.com/shervin-h/progress_bar/blob/main/assets/progress_bar_default.gif?raw=true">
+    <img alt="Default Progress Bar" src="https://github.com/shervin-h/progress_line/blob/main/assets/progress_bar_default.gif?raw=true">
 </p>
 
 ```dart
@@ -127,7 +127,7 @@ ProgressLineWidget(percent: 0.8)
 ---
 
 <p align="center">
-    <img alt="Progress Bar Example1" src="https://github.com/shervin-h/progress_bar/blob/main/assets/progress_bar_example1.gif?raw=true">
+    <img alt="Progress Bar Example1" src="https://github.com/shervin-h/progress_line/blob/main/assets/progress_bar_example1.gif?raw=true">
 </p>
 
 ```dart
@@ -149,7 +149,7 @@ ProgressLineWidget(
 - You can also set the `outerPadding` attribute to space among the progress bar and other page widgets in widget tree
 
 <p align="center">
-    <img alt="Progress Bar Example2" src="https://github.com/shervin-h/progress_bar/blob/main/assets/progress_bar_example2.gif?raw=true">
+    <img alt="Progress Bar Example2" src="https://github.com/shervin-h/progress_line/blob/main/assets/progress_bar_example2.gif?raw=true">
 </p>
 
 ```dart
